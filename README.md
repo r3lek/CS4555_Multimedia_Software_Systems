@@ -14,6 +14,25 @@ Quantization (24bits->8bits)
 
 ```
 
+``` bash
+# How to run: 
+
+Compile
+=============================
+javac CS4551_Cayetano.java
+
+
+
+Run program
+==============================
+java CS4551_Cayetano Ducky.ppm 
+
+```
+
+
+
+
+
 
 
 
