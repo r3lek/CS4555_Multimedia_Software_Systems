@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# But do not ignore these files...
+!.gitignore
+
+!build
+!build/**
+
+!src
+!src/**
+
+
+!*.txt
+!*.md
+
+!Ducky.ppm
+
+# MAC HIDDEN FILES
+.DS_Store
